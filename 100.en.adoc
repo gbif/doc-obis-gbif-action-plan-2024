@@ -1,4 +1,82 @@
-[[short-id-for-section]]
-== Section/chapter title 
+== Technical Cooperation
 
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way. He stopped twice or thrice at different shops and houses of a description correspondent with the appearance of the _quartier_ in which they were situated, — and tended inquiry for some article or another which did not seem easily to be met with. All the answers he received were couched in the negative; and as he turned from each door he muttered to himself, in no very elegant phraseology, his disappointment and discontent. At length, at one house, the landlord, a sturdy butcher, after rendering the same reply the inquirer had hitherto received, added, — “But if _this_ vill do as vell, Dummie, it is quite at your sarvice!” Pausing reflectively for a moment, Dummie responded that he thought the thing proffered _might_ do as well; and thrusting it into his ample pocket, he strode away with as rapid a motion as the wind and the rain would allow. He soon came to a nest of low and dingy buildings, at the entrance to which, in half-effaced characters, was written “Thames Court.” Halting at the most conspicuous of these buildings, an inn or alehouse, through the half-closed windows of which blazed out in ruddy comfort the beams of the hospitable hearth, he knocked hastily at the door. He was admitted by a lady of a certain age, and endowed with a comely rotundity of face and person.
+[cols="33,67"]  
+|=== 
+|Action |Suggested tasks and responsibilities
+
+.2+|Further develop biodiversity data standards 
+|Engagement with TDWG in the development of standards for both organizations +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, individual nodes
+|Vocabulary of traits with TDWG to increase interoperability between WoRMS and Catalogue of Life
+
+.2+|Further develop the new GBIF data model to accommodate OBIS practices
+|Develop the tools for publishing and accessing marine data in an expressive way i.e. event core, eMoF, basic view and extended view +
+_Task responsibility_: OBIS Products coordination group, OBIS and GBIF informatics teams
+|Data publishing tools (e.g IPT)  to support data packages and frictionless data under new data model
+
+|Support the development of Essential Ocean Variables, Essential Biodiversity Variables, Essential Climate Variables
+|Provide input into the data/metadata specifications documentation for the development of essential variables
+
+.2+|Implement traits-based filtering
+|Aligning species Traits from WoRMS with CoL
+|Extend occurrence data services by enabling discovery based on selected checklists (e.g WoRMS)
+
+.7+|Improve representation of marine data in the GBIF portal
+|Enhance the delivery of the extended Measurement or Fact extension in GBIF +
+_Task responsibility_: OBIS data coordination group, OBIS and GBIF informatics teams
+|Improve event based data representation in GBIF
+|Implement environment flags and filtering abilities within GBIF +
+_Task responsibility_: OBIS data coordination group, OBIS and GBIF informatics teams
+|Extend search and download services by filtering marine records by WoRMS-AphiaID
+|Show the AphiaID for species records from WoRMS on GBIF.org
+|Enable marine data discovery within GBIF using the standard list of https://www.marineregions.org/[Marine Regions^] 
+|Improve interpretation of what is considered is_marine at records level
+_Task responsibility_: OBIS data coordination group, WoRMS, OBIS and GBIF informatics teams
+
+|Support download DOI services and citation tracking for OBIS
+|Support download DOI services and citation tracking for OBIS
+
+|Review of development options and specifications for shared infrastructure components	
+|Review of development options and specifications for a shared infrastructure +
+_Task responsibility_: GBIF and OBIS secretariat, interested OBIS and GBIF nodes
+
+== Community and Capacity 
+
+[cols="33,67"]  
+|=== 
+|Action |Suggested tasks and responsibilities
+
+.3+|Joint data mobilization and data calls
+|Campaigns and incentives for data mobilization through grants to mobilize data that supports data paper publications +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, interested OBIS and GBIF nodes
+|Integrating marine data publication within data mobilization programmes and projects e.g. Biodiversity Information for Development (BID) +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, individual OBIS and GBIF nodes
+|Explore a special issue journal publication on marine data
+
+.4+|Enable coordination mechanisms between networks and communities of practice
+|Regular, at least 6 monthly meetings between GBIF and OBIS communities +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, interested individual nodes or relevant (OBIS) working group members
+|Joint conference between OBIS and GBIF
+|Develop mechanism to allow for knowledge exchange and capacity building at a regional level between GBIF and OBIS nodes including regional meetings and regional helpdesk services and inclusive of thematic nodes +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, individual nodes
+|Develop guidance on engaging with the marine community for GBIF nodes +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, individual nodes
+
+.2+|Develop clear messaging around the partnership
+|Develop a partnership communication strategy
+|Review of the OBIS membership options within GBIF network +
+_Task responsibility_: GBIF and OBIS Secretariats
+
+.2+|Develop joint training resources
+|Develop a shared training curriculum +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, interested individual nodes or relevant (OBIS) working group member
+|Incorporate training materials within the Ocean Teacher Global Academy
+
+|Hosted portals for nodes (or any partner)
+|Hosted portals for nodes (or any partner) +
+_Task responsibility_: GBIF Secretariat, OBIS Secretariat, individual nodes
+
+.2+|Develop joint fundraising proposals
+|Engage with funders such as GEF, ARDC, EU amongst others to promote the work of this plan +
+_Task responsibility_: GBIF and OBIS Executive Committees
+|Explore shared funding for community engagement officer
