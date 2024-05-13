@@ -1,7 +1,7 @@
-= GBIF Document Template
-Author One <communication@gbif.org>; Author Two
+= OBIS-GBIF 2024 Joint Action Plan on Marine Biodiversity Data
+OBIS & GBIF
 :toc: left
-:toclevels: 3
+:toclevels: 1
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
@@ -14,22 +14,6 @@ endif::backend-html5[]
 
 :sectnums!:
 
-include::colophon.en.adoc[]
-
-include::preface.en.adoc[]
-
-:sectnums:
-
 include::100.en.adoc[]
 
-include::200.en.adoc[]
-
-:sectnums!:
-
-include::afterword.en.adoc[]
-
-include::appa.en.adoc[]
-
-include::glossary.en.adoc[]
-
-include::bibliography.en.adoc[]
+include::colophon.en.adoc[]
