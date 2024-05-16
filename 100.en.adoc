@@ -1,3 +1,7 @@
+== Background 
+
+This action plan for 2024 implements the https://docs.gbif-uat.org/obis-gbif-joint-strategy/en/[OBIS-GBIF Joint Strategy for Marine Biodiversity Data^]. The implementation committee comprised of staff from both networks’ nodes and the Secretariats update the action plan annually.
+
 == Technical Cooperation
 
 [cols="33,67"]  
