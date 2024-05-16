@@ -1,4 +1,4 @@
-= OBIS-GBIF 2024 Joint Action Plan on Marine Biodiversity Data
+= OBIS-GBIF 2024 Action Plan on Marine Biodiversity Data
 OBIS & GBIF
 :toc: left
 :toclevels: 1
