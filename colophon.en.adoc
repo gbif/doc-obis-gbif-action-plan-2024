@@ -7,9 +7,7 @@ endif::backend-html5[]
 
 === Suggested citation
 
-OBIS & GBIF (2024) OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data. Copenhagen: GBIF Secretariat.
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
+OBIS & GBIF (2024) OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-e52v-5875
 
 === Authors
 
@@ -21,9 +19,7 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Persistent URI
 
-#TODO: Assign a DOI before publication#
-// Uncomment once a DOI is assigned
-//https://doi.org/10.EXAMPLE/EXAMPLE
+https://doi.org/10.35035/doc-e52v-5875
 
 === Document control
 
