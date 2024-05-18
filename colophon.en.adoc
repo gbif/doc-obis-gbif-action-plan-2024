@@ -11,7 +11,7 @@ OBIS & GBIF (2024) OBIS-GBIF 2024 Joint Action Plan for Marine Biodiversity Data
 
 === Authors
 
-OBIS & GBIF
+Ocean Biodiversity Information System & Global Biodiversity Information Facility
 
 === Licence
 
