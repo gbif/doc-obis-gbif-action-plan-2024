@@ -41,7 +41,7 @@ _Task responsibility_: OBIS data coordination group, WoRMS, OBIS and GBIF inform
 |Support download DOI services and citation tracking for OBIS
 
 |Review of development options and specifications for shared infrastructure components	
-|Review of development options and specifications for a shared infrastructure +
+|Review of development options and specifications for shared infrastructure +
 _Task responsibility_: GBIF and OBIS secretariat, interested OBIS and GBIF nodes
 |===
 
@@ -82,7 +82,7 @@ _Task responsibility_: GBIF Secretariat, OBIS Secretariat, interested individual
 _Task responsibility_: GBIF Secretariat, OBIS Secretariat, individual nodes
 
 .2+|Develop joint fundraising proposals
-|Engage with funders such as GEF, ARDC, EU amongst others to promote the work of this plan +
+|Engage with funders such as GEF, EU and others to promote the work of this plan +
 _Task responsibility_: GBIF and OBIS Executive Committees
 |Explore shared funding for community engagement officer
 |===
