@@ -6,7 +6,7 @@ OBIS & GBIF
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 // Title
-:title-page-background-image: image:img/web/bg-obis-gbif.png[position=center center,fit=none,pdfwidth=70%]
+:title-page-background-image: image:img/web/bg-obis-gbif.png[position=top center,fit=none,pdfwidth=70%]
 :title-logo-image: image:img/web/gbif-obis.svg[]
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 
