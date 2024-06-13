@@ -15,7 +15,7 @@ Ocean Biodiversity Information System & Global Biodiversity Information Facility
 
 === Licence
 
-The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _OBIS-GBIF 2024 Action Plan on Marine Biodiversity Data_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === Persistent URI
 
